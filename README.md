@@ -1,4 +1,4 @@
-# 🌿 AgroScan – CNN-Based Plant Disease Detection via WhatsApp
+# 🌿 AgroScan –  Plant Disease Detection 
 
 **AgroScan** is a deep learning-powered solution that detects crop leaf diseases from images. The model is designed to be deployed via a **WhatsApp chatbot** using Twilio, making it accessible to farmers and agricultural workers in remote or low-connectivity areas.
 
@@ -28,10 +28,11 @@ AgroScan is currently being developed as part of the **Africa Deep Tech Challeng
 
 - Python
 - TensorFlow / Keras
-- OpenCV
 - Pandas, NumPy
 - Twilio API (WhatsApp integration)
-- Hugging Face Spaces / FastAPI for hosting
+- FastAPI for hosting
+- Streamlit
+- Render
 
 ---
 
