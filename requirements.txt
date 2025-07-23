@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-tensorflow
+tensorflow-cpu==2.13.0
 pillow
 numpy
 python-multipart
@@ -8,5 +8,4 @@ twilio
 requests
 python-dotenv
 httpx
-huggingface_hub
 streamlit
