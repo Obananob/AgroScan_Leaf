@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+tensorflow
+pillow
+numpy
+python-multipart
+twilio
+requests
+python-dotenv
+httpx
+huggingface_hub
+streamlit

@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual environments
+venv/
+env/
+.venv/
+
+#environment variables
+.env
+*.env
+
+# model files
+*.keras
+model/
+
+# streamlit cache
+.streamlit/
+
+#logs
+# Jupyter notebook
+.ipynb_checkpoints
