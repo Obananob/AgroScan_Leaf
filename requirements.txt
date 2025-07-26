@@ -1,11 +1,10 @@
 fastapi
 uvicorn
+numpy==1.24.3
 tflite-runtime==2.13.0
 pillow
-numpy<2
 python-multipart
 twilio
 requests
 python-dotenv
 httpx
-streamlit
